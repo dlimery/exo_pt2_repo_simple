@@ -1,0 +1,2 @@
+Ce fichier est le fichier numero #002
+Il n'y a pas de code mais deux lignes dans la version initiale
